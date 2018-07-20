@@ -20,13 +20,13 @@ PDF2Excel.exe程序使用说明
 
     - 使用迅捷转换器转换
 
-      ![](C:/Users/fanyu/Desktop/Project/%E5%A4%96%E6%8E%A5%E9%A1%B9%E7%9B%AE/04_PDF2Excel_key-value_done/img_1.png)
+      ![](img_1.png)
 
     - 将所有需要转换的TXT文件放在一个文件夹内
 
   - 双击运行`PDF2Excel.exe` ，弹出如下界面：
 
-    ![](C:/Users/fanyu/Desktop/Project/%E5%A4%96%E6%8E%A5%E9%A1%B9%E7%9B%AE/04_PDF2Excel_key-value_done/img_2.png)
+    ![](img_2.png)
 
     - 依次选择TXT文件夹路径，Excel路径，保存路径
     - 运行程序得到结果
